@@ -1,0 +1,29 @@
+[33mcommit c62d26228b9698142ebbefc0d032536e64a70bd0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v0.1[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: mz-swy <swy@mz.co.kr>
+Date:   Tue Mar 21 14:14:45 2023 +0900
+
+    mybranch1의 두 번째 커밋
+
+[33mcommit 50a786e1df38ea79565747f0fba13c30e904687e[m
+Author: mz-swy <swy@mz.co.kr>
+Date:   Tue Mar 21 14:09:17 2023 +0900
+
+    mybranch1의 첫 번째 커밋
+    
+    ㅇㅇ
+
+[33mcommit 04a50f8b0e33e48b581422b3d0e394832f42d61b[m
+Author: mz-swy <swy@mz.co.kr>
+Date:   Tue Mar 21 13:40:12 2023 +0900
+
+    두 번째 커밋
+    
+    ㅇ
+
+[33mcommit 523701f125932aff33384b973d9a86f0a46bd62f[m
+Author: mz-swy <swy@mz.co.kr>
+Date:   Tue Mar 21 13:05:34 2023 +0900
+
+    첫 번째 커밋
+    
+    간단하게 hello git이라고 쓴 내용을 커밋했다.
